@@ -68,3 +68,10 @@ The objective of this project is to perform **Exploratory Data Analysis (EDA)** 
 - **Early engagement** is crucial, as new customers are more likely to leave.
 
 ---
+
+## 📬 Contact
+If you have any feedback or questions, feel free to reach out!
+
+---
+
+Thanks for checking out my project! ⭐️
